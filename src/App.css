@@ -1,0 +1,38 @@
+body {
+  background-color: #2F4055;
+}
+
+.App {
+  text-align: center;
+}
+
+.card {
+  display: grid;
+  grid-gap: 5px;
+  inline-size: auto;
+  text-align: center;
+  font-size: 150%;
+  border: 1px solid white;
+}
+
+.card-image {
+  background-size: cover;
+  min-height: 180px;
+  background-position: center;
+}
+
+.card-content {
+    padding: 15px;
+}
+
+.App-table {
+  color: white;
+  align-items: left;
+}
+
+.container {
+  width: 25%;
+  margin: auto;
+  float: right;
+  color: white;
+}
